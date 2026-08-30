@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rust-ssr-demos.github.io/sitemap.xml
